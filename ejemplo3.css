@@ -1,0 +1,56 @@
+nav{
+	background: coral;
+	width: 100%;
+	height: 100px;
+}
+ul{
+	list-style-type: none;
+	display: inline-flex;
+
+}
+
+main{
+	background: red;
+	height: 300px;
+
+
+}
+.caja1{
+
+	width: 80px;
+	height: 80px;
+	background: green;
+	border-color: black;
+	border-style: solid;
+	border-width: 5px;
+	border-radius: 10px;
+
+}
+.caja2{
+	width: 80px;
+	height: 80px;
+	background: lightgoldenrodyellow;
+	border-color: black;
+	border-style: solid;
+	border-width: 5px;
+	border-radius: 10px;
+}
+.caja3{
+	width: 80px;
+	height: 80px;
+	background: hotpink;
+	border-color: black;
+	border-style: solid;
+	border-width: 5px;
+	border-radius: 10px;
+}
+div{
+	display: flex;
+	flex-direction:  row;
+}
+
+footer{
+	background-color: blue;
+	height: 200px;
+}
+
